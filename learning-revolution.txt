@@ -2,6 +2,16 @@ Revolusi Belajar Programming Periode November 2023 :
 Minggu I :
 - Belajar Git dan GitHub, meliputi :
   1. Apa itu Git & GitHub?
-  2. Membuat Account GitHub
   2. Bekerja dengan GitHub
-  3. GitHub Branch
+  3. GitHub : Branch
+  4. GitHub : Fork
+  5. Bekerja dengan Git
+  6. Git Branch & Merge
+  7. Git Merge Conflict
+  8. Git Remote
+  9. GitHub Pages
+  10. Multiple Remotes
+  11. Remote Branch
+  12. GitIgnore
+  13. Git Rebase
+  14. Git & Web Hosting
